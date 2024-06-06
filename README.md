@@ -1,5 +1,5 @@
 # 🚀 Software Engineer | 📚 Educator | 🎨 Dance Enthusiast
-👋 Hi there! I'm [Your Name], a passionate software engineer currently pursuing my Bachelor's in Software Engineering at SIT. My journey in the tech world has been fueled by a love for coding, a knack for problem-solving, and a desire to make a positive impact.
+👋 Hi there! I'm Derick, a passionate software engineer currently pursuing my Bachelor's in Software Engineering at SIT. My journey in the tech world has been fueled by a love for coding, a knack for problem-solving, and a desire to make a positive impact.
 
 ### 💻 What I Do:
 
@@ -18,3 +18,5 @@
 
 * **Dreamfellas** : Founder of Dreamfellas, an editorial platform focusing on dance, music, and style, featuring a Telegram bot and a fully functional website.
 * **Open to Collaborations**: Always excited to hear about new projects and ideas, especially those that can make a positive impact in the community.
+
+### 🔗 Portfolio: https://portfolio-website-eight-lilac.vercel.app/
