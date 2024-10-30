@@ -16,7 +16,7 @@
 
 ### 🌟 Current Projects:
 
-* **Dreamfellas** : Founder of Dreamfellas, an editorial platform focusing on dance, music, and style, featuring a Telegram bot and a fully functional website.
+* **Dreamfellas** : Web Developer at Dreamfellas, an editorial platform focusing on dance, music, and style, featuring a Telegram bot and a fully functional website.
 * **Open to Collaborations**: Always excited to hear about new projects and ideas, especially those that can make a positive impact in the community.
 
 ### 🔗 Portfolio: https://portfolio-website-eight-lilac.vercel.app/
