@@ -1,4 +1,4 @@
-# 🚀 Software Engineer | 📚 Educator | 🎨 Dance Enthusiast
+# Software Engineer 
 👋 Hi there! I'm Derick, a passionate software engineer currently pursuing my Bachelor's in Software Engineering at SIT. My journey in the tech world has been fueled by a love for coding, a knack for problem-solving, and a desire to make a positive impact.
 
 ### 💻 What I Do:
